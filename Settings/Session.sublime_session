@@ -1,0 +1,1298 @@
+{
+	"folder_history":
+	[
+		"/E/Wamp/www/Adec",
+		"/C/Users/Administrator/Desktop/madness - 副本",
+		"/E/Wamp/www/Athinkphp2",
+		"/E/Wamp/www/Ashop",
+		"/E/Wamp/www",
+		"/C/Users/Administrator/Desktop/madness",
+		"/C/Users/Administrator/Desktop/resume2",
+		"/C/Users/Administrator/Desktop/resume",
+		"/C/Users/Administrator/Desktop/moban600",
+		"/E/SAE"
+	],
+	"last_window_id": 20,
+	"settings":
+	{
+		"new_window_height": 710.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"wh",
+						"where"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"arr",
+						"array	$… = array (…)"
+					],
+					[
+						"id",
+						"idnum"
+					],
+					[
+						"ass",
+						"assign"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"pa",
+						"padding-top"
+					],
+					[
+						"top",
+						"top-center1"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"ca",
+						"canvas	Tag"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"can",
+						"canvas"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"li",
+						"link	Tag"
+					],
+					[
+						"let",
+						"left"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"ma",
+						"margin-right"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"mai",
+						"margin-right"
+					],
+					[
+						"b",
+						"bolder"
+					],
+					[
+						"l",
+						"label	Tag"
+					],
+					[
+						"in",
+						"input	Tag"
+					],
+					[
+						"fo",
+						"form	Tag"
+					],
+					[
+						"hea",
+						"header	Tag"
+					],
+					[
+						"bo",
+						"border"
+					],
+					[
+						"ne",
+						"nerdy"
+					],
+					[
+						"en",
+						"entertainment"
+					],
+					[
+						"head",
+						"header"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"se",
+						"section	Tag"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"ar",
+						"article	Tag"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"selected_items":
+				[
+					[
+						"Package Control: enable package",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: install package",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Wamp/www/Ashop/Home/Conf/config.php",
+				"/E/Wamp/www/Ashop/config.php",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/atlist.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/modify.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/Login/index.html",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/LoginAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Tpl/Login/form.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/Public/error.html",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/UserAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/ListAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/atadd.html",
+				"/C/Users/Administrator/Desktop/madness/forms.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/List/atadd.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/add.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/index.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/list.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/Public/bottom.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/index22.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/Index/index.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/tables.html",
+				"/C/Users/Administrator/Desktop/madness/css/bootstrap.css",
+				"/C/Users/Administrator/Desktop/madness/index.html",
+				"/C/Users/Administrator/Desktop/madness/bootstrap-elements.html",
+				"/C/Users/Administrator/Desktop/madness/css/sb-admin.css",
+				"/C/Users/Administrator/Desktop/madness/article.html",
+				"/C/Users/Administrator/Desktop/madness/index-rtl.html",
+				"/C/Users/Administrator/Desktop/madness/tables.html",
+				"/C/Users/Administrator/Desktop/madness/blank-page.html",
+				"/E/Wamp/www/Adec/.htaccess",
+				"/E/Wamp/www/Ashop/.htaccess",
+				"/E/Wamp/www/Adec/Home/Tpl/UserGroupAction/index.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Conf/config.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Lib/Action/CityAction.class.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Lib/Action/EmptyAction.class.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/Travel/login.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/Public/header.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Runtime/Cache/a81f67c59d8863e2679dabda6774c819.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/Travel/index.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/City/sh.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/City/gz.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/City/bj.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/Index/index.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Lib/Action/TravelAction.class.php",
+				"/E/Wamp/www/Athinkphp2/index.php",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/Index/index.html",
+				"/E/Wamp/www/Athinkphp2/Home/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/Athinkphp2/Home/Conf/config.php",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/Public/header.html",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/Public/base.html",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/layout.html",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/Index/next.html",
+				"/E/Wamp/www/Athinkphp2/Public/Css/test.css",
+				"/E/Wamp/www/Athinkphp2/Home/Runtime/Cache/7e4848229090366086cc7eeb3bfc0798.php",
+				"/E/Wamp/www/Athinkphp2/Public/Js/test.js",
+				"/E/Wamp/www/Athinkphp2/Public/Css/Test.css",
+				"/E/Wamp/www/Athinkphp2/ThinkPHP/Extend/Library/ORG/My/Test.class.php",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/PublicAction.class.php",
+				"/E/Wamp/www/Ashop/ThinkPHP/ThinkPHP.php",
+				"/E/Wamp/www/Ashop/Public/JS/3.js",
+				"/E/Wamp/www/Ashop/Public/CSS/color.css",
+				"/E/Wamp/www/Ashop/Home/Tpl/public/error.html",
+				"/E/Wamp/www/Ashop/Public/error.html",
+				"/E/Wamp/www/resume/index.html",
+				"/E/Wamp/www/strive/Html5/canvas.html",
+				"/E/Wamp/www/st/index.html",
+				"/E/Wamp/www/news/Home/Lib/Action/FormAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Tpl/Index/show.html",
+				"/E/Wamp/www/Ashop/index.php",
+				"/E/Wamp/www/tuesday/cl20.php",
+				"/E/Wamp/www/tuesday/1.php",
+				"/E/Wamp/www/tuesday/class.php",
+				"/E/Wamp/www/news/config.php",
+				"/E/Wamp/www/news/Home/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/news/Home/Conf/config.php",
+				"/E/Wamp/www/news/Admin/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/strive/test.php",
+				"/C/Users/Administrator/Desktop/test.php",
+				"/E/SAE/MOVE-ON/1/wp-content/themes/spacious/index.php",
+				"/E/SAE/MOVE-ON/1/wp-includes/functions.php",
+				"/E/Wamp/www/Miaov/new html/ecommerce.css",
+				"/E/Wamp/www/Miaov/new html/index.html",
+				"/E/Wamp/www/zzzz/header.html",
+				"/E/Wamp/www/strive/Html5/element.html",
+				"/E/Wamp/www/tuesday/Application/Home/Controller/IndexController.class.php",
+				"/E/Wamp/www/news/index.php",
+				"/E/Wamp/www/news/Admin/Conf/config.php",
+				"/E/Wamp/www/tuesday/index.php",
+				"/E/Wamp/www/Effect/fullscreen-overlay/index.html",
+				"/E/Wamp/www/strive/Special/index.html",
+				"/E/Wamp/www/strive/test.html",
+				"/E/Wamp/www/strive/Special/jquery.min.js",
+				"/E/Wamp/www/strive/Html5/elment.html",
+				"/E/Wamp/www/Test.html",
+				"/E/Wamp/www/Github/Bootstrap/index.html",
+				"/E/Wamp/www/Github/Bootstrap/css/bootstrap-responsive.css",
+				"/E/Wamp/www/Github/Bootstrap/css/person.css",
+				"/E/Wamp/www/Github/Bootstrap/css/bootstrap.css",
+				"/E/Wamp/www/captain/plus/advancedsearch.php",
+				"/E/Wamp/www/captain/templets/default/article_spec.htm",
+				"/E/Wamp/www/captain/templets/default/article_spec2_templets.htm",
+				"/E/Wamp/www/captain/templets/system/channel_spec_note.htm",
+				"/E/Wamp/www/st/css/bootstrap.css",
+				"/E/Wamp/www/metronic.bootstrap/index.html",
+				"/E/Wamp/www/st/css/bootstrap.min.css",
+				"/E/Wamp/www/shuntian/index.html",
+				"/E/Wamp/www/A_jiu/index.html",
+				"/E/Wamp/www/A_jiu/index.css",
+				"/E/Wamp/www/Github/Bootstrap/index2.html",
+				"/C/Users/Administrator/Desktop/bootstrap-2.3.2/bootstrap-2.3.2/docs/examples/carousel.html",
+				"/E/Wamp/www/My-Project/Class/17.php",
+				"/E/SAE/MOVE-ON/1/WeiXin/wx.php",
+				"/E/Wamp/www/My-Project/Loading/Y——CSS3实现的动画加载中效果.html",
+				"/E/Wamp/www/My-Project/Exercise/Html5/vedio/vedio.html",
+				"/E/SAE/MOVE-ON/1/WeiXin/t_api.php",
+				"/E/SAE/MOVE-ON/1/wx_sample.php",
+				"/C/Users/Administrator/Desktop/wx_sample/wx_sample.php",
+				"/E/Wamp/www/My-Project/Exercise/Html5/vedio/B04-04工具介绍-宝贝描述的动静切片.mp4",
+				"/E/Wamp/www/My-Project/Exercise/css/colum.html",
+				"/E/Wamp/www/My-Project/Exercise/css/form.html",
+				"/E/Wamp/www/asp/Index.asp",
+				"/E/Wamp/www/My-Project/11th30News/add_newclass.php",
+				"/E/Wamp/www/My-Project/11th30News/del.php",
+				"/E/Wamp/www/My-Project/11th30News/edit.php",
+				"/E/Wamp/www/My-Project/11th30News/list.php",
+				"/E/Wamp/www/My-Project/11th30News/register.php",
+				"/E/Wamp/www/My-Project/11th30News/add_news.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"    <script type=\"text/javascript\">\n      function sub(){\n        var ou=document.myForm.username;\n        var op=document.myForm.password;\n        var oc=document.myForm.code;\n        if(ou.value=='' || op.value=='' ||oc.value==''){\n          alert('用户名或者密码或者验证码不能为空');\n        }else{\n          document.myForm.submit();\n        }\n      }\n    </script>",
+					"area",
+					"texarea",
+					"Disabled",
+					"Disabled Form",
+					"Disabled Form ",
+					"<nav>",
+					"RTL",
+					"Bordered Table",
+					".side-nav",
+					".navbar-ex1-collapse",
+					"。navbar-ex1-collapse",
+					"navbar-nav",
+					"collapse",
+					"Panel title",
+					"Bordered with Striped Row",
+					"Forms",
+					"分类",
+					"/:",
+					">\n",
+					"I’M JOHN DO",
+					"CONTACT",
+					"Clients",
+					"TESTIMONIAL",
+					"TES",
+					"test",
+					"por",
+					"work",
+					"navbar-left",
+					"row",
+					"Dashbo",
+					"Dos",
+					"#000000",
+					"sidebar",
+					"navbar-default sidebar",
+					"navbar-defau",
+					"navbar-default sidebar",
+					"excute",
+					"excerpt_length",
+					"excerpt",
+					"unction wp_trim_excerpt($text)",
+					"get_the_content",
+					"$text",
+					"content",
+					"words",
+					"wp_trim_words",
+					"wp_trim_words()",
+					"substr",
+					"entry-meta-bar",
+					"entry-meta-bar clearfix",
+					"substr",
+					"jpg",
+					"http://wj.hbckyy.com/zt/zgjl/css/zgjl.css",
+					"04.jpg",
+					"world",
+					"#",
+					"/assets/js/main.js?v=add88604a6",
+					"{dede:field.title/",
+					"{dede:field.title/}_{dede:global.cfg_webname/}",
+					"field",
+					"sub-menu",
+					"Horzontal & Sidebar Menu   ",
+					"baseFontSize ",
+					"木制货架",
+					"weixin_run",
+					"}\n",
+					"}?>\n",
+					"week",
+					"</",
+					"ball",
+					"bal",
+					"ball",
+					"15px",
+					"ball",
+					"11",
+					"555555555",
+					"5eeeeeeeeee"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"the"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index.html",
+						"Athinkphp2/Home/Tpl/Index/index.html"
+					],
+					[
+						"athinkphp2",
+						"Athinkphp2/index.php"
+					],
+					[
+						"athink",
+						"Ashop/ThinkPHP/ThinkPHP.php"
+					],
+					[
+						"github",
+						"Github/Bootstrap/css/bootstrap.css"
+					],
+					[
+						"file",
+						"nielingluo/wp-includes/SimplePie/File.php"
+					],
+					[
+						"y-",
+						"My-Project/Loading/Y--test1.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 224.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1350.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"wh",
+						"where"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"arr",
+						"array	$… = array (…)"
+					],
+					[
+						"id",
+						"idnum"
+					],
+					[
+						"ass",
+						"assign"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"pa",
+						"padding-top"
+					],
+					[
+						"top",
+						"top-center1"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"ca",
+						"canvas	Tag"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"can",
+						"canvas"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"li",
+						"link	Tag"
+					],
+					[
+						"let",
+						"left"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"ma",
+						"margin-right"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"mai",
+						"margin-right"
+					],
+					[
+						"b",
+						"bolder"
+					],
+					[
+						"l",
+						"label	Tag"
+					],
+					[
+						"in",
+						"input	Tag"
+					],
+					[
+						"fo",
+						"form	Tag"
+					],
+					[
+						"hea",
+						"header	Tag"
+					],
+					[
+						"bo",
+						"border"
+					],
+					[
+						"ne",
+						"nerdy"
+					],
+					[
+						"en",
+						"entertainment"
+					],
+					[
+						"head",
+						"header"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"se",
+						"section	Tag"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"ar",
+						"article	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Wamp/www/Ashop/Home/Tpl/Public/header.html",
+					"settings":
+					{
+						"buffer_size": 9899,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Wamp/www/Ashop/Home/Tpl/User/index.html",
+					"settings":
+					{
+						"buffer_size": 5222,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/Wamp/www/Ashop/Home/Lib/Action/ListAction.class.php",
+					"settings":
+					{
+						"buffer_size": 512,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Wamp/www/Ashop/Home/Lib/Action/UserAction.class.php",
+					"settings":
+					{
+						"buffer_size": 2692,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Wamp/www/Ashop/Home/Tpl/User/info.html",
+					"settings":
+					{
+						"buffer_size": 266,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"selected_items":
+				[
+					[
+						"Package Control: enable package",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: install package",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Wamp/www/Ashop/Home/Conf/config.php",
+				"/E/Wamp/www/Ashop/config.php",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/atlist.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/modify.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/Login/index.html",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/LoginAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Tpl/Login/form.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/Public/error.html",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/UserAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/ListAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/atadd.html",
+				"/C/Users/Administrator/Desktop/madness/forms.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/List/atadd.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/add.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/index.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/list.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/Public/bottom.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/index22.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/Index/index.html",
+				"/E/Wamp/www/Ashop/Home/Tpl/User/tables.html",
+				"/C/Users/Administrator/Desktop/madness/css/bootstrap.css",
+				"/C/Users/Administrator/Desktop/madness/index.html",
+				"/C/Users/Administrator/Desktop/madness/bootstrap-elements.html",
+				"/C/Users/Administrator/Desktop/madness/css/sb-admin.css",
+				"/C/Users/Administrator/Desktop/madness/article.html",
+				"/C/Users/Administrator/Desktop/madness/index-rtl.html",
+				"/C/Users/Administrator/Desktop/madness/tables.html",
+				"/C/Users/Administrator/Desktop/madness/blank-page.html",
+				"/E/Wamp/www/Adec/.htaccess",
+				"/E/Wamp/www/Ashop/.htaccess",
+				"/E/Wamp/www/Adec/Home/Tpl/UserGroupAction/index.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Conf/config.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Lib/Action/CityAction.class.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Lib/Action/EmptyAction.class.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/Travel/login.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/Public/header.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Runtime/Cache/a81f67c59d8863e2679dabda6774c819.php",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/Travel/index.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/City/sh.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/City/gz.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/City/bj.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Tpl/Index/index.html",
+				"/E/Wamp/www/Athinkphp2/Travel/Lib/Action/TravelAction.class.php",
+				"/E/Wamp/www/Athinkphp2/index.php",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/Index/index.html",
+				"/E/Wamp/www/Athinkphp2/Home/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/Athinkphp2/Home/Conf/config.php",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/Public/header.html",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/Public/base.html",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/layout.html",
+				"/E/Wamp/www/Athinkphp2/Home/Tpl/Index/next.html",
+				"/E/Wamp/www/Athinkphp2/Public/Css/test.css",
+				"/E/Wamp/www/Athinkphp2/Home/Runtime/Cache/7e4848229090366086cc7eeb3bfc0798.php",
+				"/E/Wamp/www/Athinkphp2/Public/Js/test.js",
+				"/E/Wamp/www/Athinkphp2/Public/Css/Test.css",
+				"/E/Wamp/www/Athinkphp2/ThinkPHP/Extend/Library/ORG/My/Test.class.php",
+				"/E/Wamp/www/Ashop/Home/Lib/Action/PublicAction.class.php",
+				"/E/Wamp/www/Ashop/ThinkPHP/ThinkPHP.php",
+				"/E/Wamp/www/Ashop/Public/JS/3.js",
+				"/E/Wamp/www/Ashop/Public/CSS/color.css",
+				"/E/Wamp/www/Ashop/Home/Tpl/public/error.html",
+				"/E/Wamp/www/Ashop/Public/error.html",
+				"/E/Wamp/www/resume/index.html",
+				"/E/Wamp/www/strive/Html5/canvas.html",
+				"/E/Wamp/www/st/index.html",
+				"/E/Wamp/www/news/Home/Lib/Action/FormAction.class.php",
+				"/E/Wamp/www/Ashop/Home/Tpl/Index/show.html",
+				"/E/Wamp/www/Ashop/index.php",
+				"/E/Wamp/www/tuesday/cl20.php",
+				"/E/Wamp/www/tuesday/1.php",
+				"/E/Wamp/www/tuesday/class.php",
+				"/E/Wamp/www/news/config.php",
+				"/E/Wamp/www/news/Home/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/news/Home/Conf/config.php",
+				"/E/Wamp/www/news/Admin/Lib/Action/IndexAction.class.php",
+				"/E/Wamp/www/strive/test.php",
+				"/C/Users/Administrator/Desktop/test.php",
+				"/E/SAE/MOVE-ON/1/wp-content/themes/spacious/index.php",
+				"/E/SAE/MOVE-ON/1/wp-includes/functions.php",
+				"/E/Wamp/www/Miaov/new html/ecommerce.css",
+				"/E/Wamp/www/Miaov/new html/index.html",
+				"/E/Wamp/www/zzzz/header.html",
+				"/E/Wamp/www/strive/Html5/element.html",
+				"/E/Wamp/www/tuesday/Application/Home/Controller/IndexController.class.php",
+				"/E/Wamp/www/news/index.php",
+				"/E/Wamp/www/news/Admin/Conf/config.php",
+				"/E/Wamp/www/tuesday/index.php",
+				"/E/Wamp/www/Effect/fullscreen-overlay/index.html",
+				"/E/Wamp/www/strive/Special/index.html",
+				"/E/Wamp/www/strive/test.html",
+				"/E/Wamp/www/strive/Special/jquery.min.js",
+				"/E/Wamp/www/strive/Html5/elment.html",
+				"/E/Wamp/www/Test.html",
+				"/E/Wamp/www/Github/Bootstrap/index.html",
+				"/E/Wamp/www/Github/Bootstrap/css/bootstrap-responsive.css",
+				"/E/Wamp/www/Github/Bootstrap/css/person.css",
+				"/E/Wamp/www/Github/Bootstrap/css/bootstrap.css",
+				"/E/Wamp/www/captain/plus/advancedsearch.php",
+				"/E/Wamp/www/captain/templets/default/article_spec.htm",
+				"/E/Wamp/www/captain/templets/default/article_spec2_templets.htm",
+				"/E/Wamp/www/captain/templets/system/channel_spec_note.htm",
+				"/E/Wamp/www/st/css/bootstrap.css",
+				"/E/Wamp/www/metronic.bootstrap/index.html",
+				"/E/Wamp/www/st/css/bootstrap.min.css",
+				"/E/Wamp/www/shuntian/index.html",
+				"/E/Wamp/www/A_jiu/index.html",
+				"/E/Wamp/www/A_jiu/index.css",
+				"/E/Wamp/www/Github/Bootstrap/index2.html",
+				"/C/Users/Administrator/Desktop/bootstrap-2.3.2/bootstrap-2.3.2/docs/examples/carousel.html",
+				"/E/Wamp/www/My-Project/Class/17.php",
+				"/E/SAE/MOVE-ON/1/WeiXin/wx.php",
+				"/E/Wamp/www/My-Project/Loading/Y——CSS3实现的动画加载中效果.html",
+				"/E/Wamp/www/My-Project/Exercise/Html5/vedio/vedio.html",
+				"/E/SAE/MOVE-ON/1/WeiXin/t_api.php",
+				"/E/SAE/MOVE-ON/1/wx_sample.php",
+				"/C/Users/Administrator/Desktop/wx_sample/wx_sample.php",
+				"/E/Wamp/www/My-Project/Exercise/Html5/vedio/B04-04工具介绍-宝贝描述的动静切片.mp4",
+				"/E/Wamp/www/My-Project/Exercise/css/colum.html",
+				"/E/Wamp/www/My-Project/Exercise/css/form.html",
+				"/E/Wamp/www/asp/Index.asp",
+				"/E/Wamp/www/My-Project/11th30News/add_newclass.php",
+				"/E/Wamp/www/My-Project/11th30News/del.php",
+				"/E/Wamp/www/My-Project/11th30News/edit.php",
+				"/E/Wamp/www/My-Project/11th30News/list.php",
+				"/E/Wamp/www/My-Project/11th30News/register.php",
+				"/E/Wamp/www/My-Project/11th30News/add_news.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"    <script type=\"text/javascript\">\n      function sub(){\n        var ou=document.myForm.username;\n        var op=document.myForm.password;\n        var oc=document.myForm.code;\n        if(ou.value=='' || op.value=='' ||oc.value==''){\n          alert('用户名或者密码或者验证码不能为空');\n        }else{\n          document.myForm.submit();\n        }\n      }\n    </script>",
+					"area",
+					"texarea",
+					"Disabled",
+					"Disabled Form",
+					"Disabled Form ",
+					"<nav>",
+					"RTL",
+					"Bordered Table",
+					".side-nav",
+					".navbar-ex1-collapse",
+					"。navbar-ex1-collapse",
+					"navbar-nav",
+					"collapse",
+					"Panel title",
+					"Bordered with Striped Row",
+					"Forms",
+					"分类",
+					"/:",
+					">\n",
+					"I’M JOHN DO",
+					"CONTACT",
+					"Clients",
+					"TESTIMONIAL",
+					"TES",
+					"test",
+					"por",
+					"work",
+					"navbar-left",
+					"row",
+					"Dashbo",
+					"Dos",
+					"#000000",
+					"sidebar",
+					"navbar-default sidebar",
+					"navbar-defau",
+					"navbar-default sidebar",
+					"excute",
+					"excerpt_length",
+					"excerpt",
+					"unction wp_trim_excerpt($text)",
+					"get_the_content",
+					"$text",
+					"content",
+					"words",
+					"wp_trim_words",
+					"wp_trim_words()",
+					"substr",
+					"entry-meta-bar",
+					"entry-meta-bar clearfix",
+					"substr",
+					"jpg",
+					"http://wj.hbckyy.com/zt/zgjl/css/zgjl.css",
+					"04.jpg",
+					"world",
+					"#",
+					"/assets/js/main.js?v=add88604a6",
+					"{dede:field.title/",
+					"{dede:field.title/}_{dede:global.cfg_webname/}",
+					"field",
+					"sub-menu",
+					"Horzontal & Sidebar Menu   ",
+					"baseFontSize ",
+					"木制货架",
+					"weixin_run",
+					"}\n",
+					"}?>\n",
+					"week",
+					"</",
+					"ball",
+					"bal",
+					"ball",
+					"15px",
+					"ball",
+					"11",
+					"555555555",
+					"5eeeeeeeeee"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"the"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "/E/Wamp/www/Ashop"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/Wamp/www/Ashop/Home/Tpl/Public/header.html",
+							"settings":
+							{
+								"buffer_size": 9899,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9473,
+										9473
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3240.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/Wamp/www/Ashop/Home/Tpl/User/index.html",
+							"settings":
+							{
+								"buffer_size": 5222,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4278,
+										4278
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1566.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/Wamp/www/Ashop/Home/Lib/Action/ListAction.class.php",
+							"settings":
+							{
+								"buffer_size": 512,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										374,
+										374
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/Wamp/www/Ashop/Home/Lib/Action/UserAction.class.php",
+							"settings":
+							{
+								"buffer_size": 2692,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2095,
+										2095
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1296.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/Wamp/www/Ashop/Home/Tpl/User/info.html",
+							"settings":
+							{
+								"buffer_size": 266,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										250,
+										250
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,2,3,-32000,-32000,-1,-1,768,0,0,1366",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index.html",
+						"Athinkphp2/Home/Tpl/Index/index.html"
+					],
+					[
+						"athinkphp2",
+						"Athinkphp2/index.php"
+					],
+					[
+						"athink",
+						"Ashop/ThinkPHP/ThinkPHP.php"
+					],
+					[
+						"github",
+						"Github/Bootstrap/css/bootstrap.css"
+					],
+					[
+						"file",
+						"nielingluo/wp-includes/SimplePie/File.php"
+					],
+					[
+						"y-",
+						"My-Project/Loading/Y--test1.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 224.0,
+			"status_bar_visible": true,
+			"window_id": 17,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
